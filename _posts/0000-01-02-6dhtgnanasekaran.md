@@ -1,6 +1,6 @@
 3.	---
 4.	
-5.	layout: something newww
+5.	layout: something newwwxczc
 6.	
 7.	title: "Welcome to our second slide!"
 8.	
